@@ -1,2 +1,1 @@
-# Java
-Package yang saya Praktekan
+# TODO LIST
